@@ -1,0 +1,26 @@
+<!-- html -->
+Ver todo
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Primera Página con HTML</title>
+</head>
+<body>
+    <h1>¡Bienvenidos a mi página de prueba!</h1>
+    <p>Esta es una página sencilla creada con <b>HTML básico</b>.</p>
+    <p>Aquí hay algunas cosas que me gustan Humberto Aguilera:</p>
+    <ul>
+        <li>Programar</li>
+        <li>Leer libros</li>
+        <li>Jugar videojuegos</li>
+    </ul>
+    <hr>
+    <p>Puedes visitar mi universidad:</p>
+    <p><a href="https://www.ual.edu.mx" target="_blank">Universidad Autónoma de La Laguna</a></p>
+    <img src="C:\Users\hgagu\OneDrive\Documentos\UAL\2025-S2\logo-ual.png" alt="Imagen de ejemplo">
+    <br>
+    <small>Derechos reservados &copy; 2025</small>
+</body>
+</html>
+<!-- html 2 -->
