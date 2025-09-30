@@ -4,12 +4,12 @@ Ver todo
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Mi Primera Página con HTML</title>
+    <title>Mi Primera Página con HTML (index.)(Sin html)</title>
 </head>
 <body>
     <h1>¡Bienvenidos a mi página de prueba!</h1>
     <p>Esta es una página sencilla creada con <b>HTML básico</b>.</p>
-    <p>Aquí hay algunas cosas que me gustan Humberto Aguilera:</p>
+    <p>Aquí hay algunas cosas que me gustan Humberto A.:</p>
     <ul>
         <li>Programar</li>
         <li>Leer libros</li>
